@@ -1,0 +1,28 @@
+Exercise #1
+請先定義兩個整數 num1 = 10, num2 = 2
+並編寫程式碼，輸出以下結果
+
+
+
+Exercise #2
+定義一個字串 my_str = "i like python!"
+(1) 請輸出my_str的長度
+(2) 將 my_str 改為 "I like python!"，並輸出 (hint: capitalize())
+(3) 將 my_str 改為 "I really like python!"，並輸出
+(4) 透過 " " 將 my_str 進行分割，並將結果存進 str_split 後輸出
+(5) 透過 "-" 將分割結果 str_split 進行合併，並將結果存進new_str 後輸出
+
+
+Exercise #3
+定義一個字串 tag = '<a href="http://www.yzu.edu.tw">'
+(1) 將 tag 中的 yzu 網址存進 link 後輸出
+(2) 透過 "." 將 link 進行分割，並將結果存進 link_split 後輸出
+(3) 將 link 中的 yzu 改為 ntu，並將結果存進 ntu_link 後輸出
+(4) 透過 ntu_link 輸出 "ntu web: http://www.yzu.edu.tw"
+
+Exercise #4
+請先定義一個字串 box = "apple, waterlemon, lemon, pineapple, wax apple"
+(1) box 內多少顆 apple
+(2) 找出 box 內 第一顆 apple 的位置
+(3) 找出 box 內 最後一顆 lemon 的位置
+(4) 試著將 box 內的水果單字改為大寫
