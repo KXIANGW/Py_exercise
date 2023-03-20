@@ -1,0 +1,28 @@
+Exercise #1
+簡易絕對值
+(1) 輸入一個正整數
+(2) 輸入一個負整數
+
+Exercise #2
+求在一維空間上，兩點a, b的距離(透過判斷兩點的大小)
+
+Exercise #3
+請輸入一個整數 score ，並依照以下規則來給定 grade 值
+score>=90    -> grade = 'A'
+90>score>=80 -> grade = 'B'
+80>score>=70 -> grade = 'C'
+70>score>=60 -> grade = 'D'
+60>score     -> grade = 'F'
+
+Exercise #4
+判斷 num1 是否為 num2 的倍數
+請輸入目標數 num1 (0<num1<=100) 再輸入 num2 (0<num2<=num1)
+
+Exercise #5
+請先定義 box = ['apple', 'waterlemon', 'wax apple', 'lemon', 'pineapple']
+，而使用者輸入 1、2來選擇要拿走或者放入水果，而其水果是使用者手動輸入的
+1. 試著刪除 apple 和放入 strawberry
+2. 試著刪除 banana 和 放入 lemon 
+3. 試著選擇 1、2 以外的數字
+
+

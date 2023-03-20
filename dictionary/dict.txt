@@ -1,0 +1,31 @@
+Exercise #1
+定義一個 num1 = ["zero", "one", "two", "three", "four", "five", "six"],
+num2 = {'0':"zero", '1':"one", '2':"two", '3':"three", '4':"four", '5':"five", '6':"six"}
+(1) 請輸出 num1、num2 的資料型態
+(2) 請輸出 num1 的 "zero" 到 "three"
+(3) 請輸出 num2 的 "four" 到 "six"
+(4) 請透過 get() 輸出num2 的 'one'
+
+
+Exercise #2
+定義一個 box = {"apple":1, "waterlemon":3, "lemon":2, "pineapple":2, "wax apple":5}
+(1) box 內有多少顆 apple、pineapple、wax apple
+(2) box 內總共有多少顆水果
+(3) box 中的蘋果被吃掉了一顆，並輸出結果
+(4) 蘋果數量為零了，請將蘋果從 box 中移除
+(5) 定義一個 favorite_fruit = {fruit_name, fruit_quantity}，並將其存進 box 中
+
+
+Exercise #3
+請先定義一個空的字典 student 
+(1) 請將 score = {"Chinese":60} 存進 studnet 內
+(2) 請自行定義一個字典，並將其存放的成績存進student
+(3) 將 Chinese 的分數改為 90
+(4) 學期結束了，請將student內的成績清空
+
+
+Exercise #4
+解碼 encode_text = {'#': 'n', 'R': 'y', 'M': '!', 't': 'd', 'I': 't', '@': 'o', 'h': 'r', 'J': 'i', '_': 'h', '/': 'b', '1': 's', 'r': 'g', '/': 'e', '&': 'p'}
+(1) 請依序將 encode_text 內的 '&','R','I','_','@','#','a','J','1','a' 所對應的值存進 text 
+(2) 請定義一個字串 adj(從 encode 中現有的字母構成)
+(3) 透過 text 與 adj 輸出一段完整的句子
