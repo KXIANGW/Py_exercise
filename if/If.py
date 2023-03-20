@@ -1,24 +1,23 @@
-'''
 #Exercise 1
 num = int(input("Pls input integer: "))
 if num>=0:
     print(num)
 else:
     print(-num)
-'''
 
 
-'''
+
+
 #Exercise 2
 a = int(input("a: "))
 b = int(input("b: "))
 if(a>b): 
     a,b=b,a
 print(b-a)
-'''
 
 
-'''
+
+
 #Exercise 3
 score = int(input("Score: "))
 grade = ""
@@ -33,7 +32,7 @@ elif(score>=60):
 else:
     grade = 'F'
 print("Your grade is:",grade)
-'''
+
 
 
 
@@ -55,7 +54,7 @@ else:
     print("num1 範圍錯誤")
 
 
-'''
+
 #Exercise 5
 # 請先定義 box = ['apple', 'waterlemon', 'wax apple', 'lemon', 'pineapple']
 # ，而使用者選擇 1、2來選擇要拿走或者放入水果，而其水果是使用者手動輸入的
@@ -83,4 +82,3 @@ elif choise == '2':
     
 else:
     print("無此功能")
-'''
