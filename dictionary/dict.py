@@ -1,4 +1,3 @@
-'''
 #Exercise 1
 
 num1 = ["zero", "one", "two", "three", "four", "five", "six"]
@@ -16,10 +15,10 @@ print(num2['4'], num2['5'], num2['6'])
 
 # (4) 請透過 get() 輸出num2 的 'one'
 print(num2.get('1'))
-'''
 
 
-'''
+
+
 #Exercise 2
 box = {"apple":1, "waterlemon":3, "lemon":2, "pineapple":2, "wax apple":5}
 
@@ -44,10 +43,10 @@ print(box)
 favorite_fruit = {"pear":88}
 box.update(favorite_fruit)
 print(box)
-'''
 
 
-'''
+
+
 #Exercise 3
 student = {}
 
@@ -67,7 +66,7 @@ print(student)
 # (4) 學期結束了，請將student內的成績清空
 student.clear()
 print(student)
-'''
+
 
 
 
