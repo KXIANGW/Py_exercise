@@ -1,0 +1,27 @@
+Exercise #1
+1. 請使用者先輸入兩個整數 begin、end，並輸出介於 begin、end 之間的整數(包含begin、end)
+2. 算出以 begin 作為 a1，end 作為 an，d(公差)為1的等差數列之和
+
+Exercise #2
+1. 請使用者輸入要讀取幾筆資料數 num，並將使用者輸入的資料存進 mydata =[] 中
+2. 將資料從 mydata 中一筆一筆的輸出出來
+
+Exercise #3
+請使用者輸入一個整數 n，並透過 n 繪製一個 n*n 的直角三角形
+
+Exercise #4
+請先定義一個 num_list = [2,8,1,4,5,11,3,7,10,9]
+1. 請使用者輸入一個整數 num，並透過此整數將 num_list 進行分割，將其分割成大於、小於、等於 num 的list(bigger、smaller、equal)
+2. 輸出大於 num 的數字有那些(由小到大)
+3. 輸出小於 num 的數字有哪些(由小到大)
+4. 輸出等於 num 的數字有幾個
+5. 將 smaller、equal、bigger 進行合併，並輸出其結果
+
+
+Exercise #5
+請使用者輸入一串資料，並將其存入 mydata 中，透過 for 迴圈與 字典 dictionary 統計 mydata 內的字元各有多少個
+
+Exercise #6
+來透過程式求出 f(x) = 3x^4+2x^2-7x+8 的解，x為使用者自訂
+(hint: 先自訂 coef = [3,2,-7,8] expon = [4,2,1,0])
+
