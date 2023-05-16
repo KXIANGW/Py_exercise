@@ -1,0 +1,13 @@
+Exercise #1
+1. 請輸入一個數字，並輸出其為偶數或奇數
+2. 請依序輸入五個數字，並輸出其為偶數或奇數 (for、while)
+3. 請依序輸入數字，並輸出其為偶數或奇數(輸入break -> 結束)
+
+Eeercise #2
+1. 透過 for loop 計算1~100的和
+2. 透過 while loop 計算1~100的和
+3. 透過 while loop 計算1~100且公差(d)為2的和
+
+Exerciese #3
+1. 透過 while loop 印出 1~16的數
+2. 透過 while loop 印出 1~16的數且公差(d)為2
