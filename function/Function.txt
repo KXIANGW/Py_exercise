@@ -1,0 +1,22 @@
+Exercise #1
+1. 定義一個 square 的函式，參數為 num，並回傳 num 的平方數
+2. 定義一個 add 的函式，參數為 num1, num2，並回傳兩數之和
+3. 定義一個 sqrt 的函式，參數為 num，並回傳 num 的平方根
+4. 透過以上三個函式計算出直角三角形之斜邊c(三邊為a, b, c)
+
+Exercise #2
+1. 定義一個 isPrime 函式判斷其數字是否為質數
+2. 透過 isPrime 將1~100的質數全部輸出出來
+
+Exercise #3
+解多項式
+設計一個函式可以回傳每一個多項式各項的數值(ex: 2x^2,x = 1 -> item = 2)
+def item(coef,expon,x)
+
+Exercise #4
+1. 定義一個 rec_area 函式，參數為x,y，並回傳矩形的面積
+2. 定義一個 rec_perimeter 函式，參數為x,y，並回傳矩形的周長
+3. 自訂一個存放矩形邊長的 list ，並透過定義好的函式來輸出其面積、周長
+
+Exercise #5
+定義一個 isPalindromes 函式判斷一段文字是否為回文，並回傳其結果
