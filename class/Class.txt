@@ -1,0 +1,26 @@
+Exercise #1
+建立一個 class Rectangle，Rectangle 中屬性有 width, height，方法有
+isRectangel() 判斷是 width, height 是否可以構成 rectangle
+cal_perimeter() 回傳其周長
+cal_area() 回傳其面積
+
+Exercise #2
+建立一個 class Student，Student 中屬性有 name, id, gender, departures，方法有
+printInfo() 輸出 Student 的 namd, id, gender
+getDepartment() 透過 id 來判斷此學生是哪個學院的
+say(message) 輸出 name say message 
+
+Exercise #3
+建立一個 class Animal，Animal 中屬性有 name, sound, feet，方法有
+printInfo() 輸出 Animal 的 name, feet
+say() 輸出 Animal 的叫聲
+
+
+Exercise #4
+建立一個 class ShoppingCart，ShoppingCart 中屬性有 basket(存放購買的物品), info(物品的數量、價格)，方法有
+getAmount() 回傳購物車內有多少商品數量
+getCost() 回傳現在所需花費的金額
+add(thing1,price1) 將物品新增至 basket、info 中
+remove(thing) 移除特定物品
+myBasket() 輸出 basket 內的所有商品
+
