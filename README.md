@@ -1,2 +1,2 @@
-# Py_exercise
+# For Python teaching
 GN420
